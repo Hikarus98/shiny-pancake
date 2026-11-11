@@ -6,12 +6,12 @@ I'm a student exploring practical AI, automation, and creative technology. I bui
 
 ## 🚀 Projects
 
-### SAI — Local AI Voice Assistant *(in progress)*
+### ARIA — Local AI Voice Assistant *(in progress)*
 - Building a local Telugu + English voice assistant with Python, Ollama, and Faster-Whisper.
 - Exploring speech recognition, intent handling, and desktop automation.
 - Reliability and execution workflows are still under development.
 
-### SAI OS *(concept / early development)*
+### ORI — AI Operating System *(concept / early development)*
 - Exploring a hybrid AI desktop experience with a futuristic interface and voice interaction.
 - Planned as a dual-boot project alongside Windows.
 
